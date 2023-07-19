@@ -1,0 +1,1 @@
+# blueedge_js_resources
